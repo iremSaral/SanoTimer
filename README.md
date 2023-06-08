@@ -5,7 +5,7 @@
 
 # **SanoTimer: The Smart Irrigation Solution**
 
-SanoTimer is my graduation project developed for a remotely controlled irrigation system. I chose to use React Native and Firebase technologies for this project. I used the Expo framework to develop the mobile application and the Firebase database to store the necessary data. These data are converted into appropriate commands to be read by Arduino. You can access the Arduino code from a separate repository. The application interfaces provided below are designed by myself using Figma.
+SanoTimer is my graduation project developed for a remotely controlled irrigation system. I chose to use React Native and Firebase technologies for this project. I used the Expo framework to develop the mobile application and the Firebase database to store the necessary data. These data are converted into appropriate commands to be read by Arduino. You can access the Arduino code from a [separate repository](https://github.com/iremSaral/SanoTimer-ArduinoCode). The application interfaces provided below are designed by myself using Figma.
 
 ## Features
 
